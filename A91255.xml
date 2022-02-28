@@ -1,0 +1,144 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The remonstrance of the noble-men, knights, gentlemen, clergy-men, free-holders, citizens, burgesses and commons of the late eastern, southern, and western associations who desire to shew themselves faithfull and constant to the Good Old Cause, the privileges and freedom of Parliament, the liberty and property of the subjects, laws of the land, and true reformed religion, which they were formerly called forth and engaged to defend by declaration of Parliament, the protestation, and Solemn National League and Covenant.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91255</idno>
+            <idno type="STC">Wing P4051</idno>
+            <idno type="STC">Thomason 669.f.22[11]</idno>
+            <idno type="STC">ESTC R211340</idno>
+            <idno type="EEBO-CITATION">99870070</idno>
+            <idno type="PROQUEST">99870070</idno>
+            <idno type="VID">163593</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91255)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163593)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 247:669f22[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The remonstrance of the noble-men, knights, gentlemen, clergy-men, free-holders, citizens, burgesses and commons of the late eastern, southern, and western associations who desire to shew themselves faithfull and constant to the Good Old Cause, the privileges and freedom of Parliament, the liberty and property of the subjects, laws of the land, and true reformed religion, which they were formerly called forth and engaged to defend by declaration of Parliament, the protestation, and Solemn National League and Covenant.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1659]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "9ber [i.e. November]. 16. 1659".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:163593:1" rendition="simple:additions"/>
+            <head>The <hi>Remonſtrance</hi> of the <hi>Noble-men, Knights, Gentlemen, Clergy-men, Free-holders, Citizens, Bur<g ref="char:EOLhyphen"/>geſſes and Commons</hi> of the late <hi>Eaſtern, Southern,</hi> and <hi>Weſtern Aſſociations,</hi> who deſire to ſhew themſelves <hi>Faithfull</hi> and <hi>Conſtant</hi> to the <hi>Good Old Cauſe,</hi> the <hi>Privileges and Freedom of Parlia<g ref="char:EOLhyphen"/>ment,</hi> the <hi>Liberty</hi> and <hi>Property of the Subjects, Laws of the Land, and true Reformed Religion,</hi> which they were formerly called forth and engaged to defend by <hi>Declarations of Parliament,</hi> the <hi>Proteſtation,</hi> and <hi>Solemn National League</hi> and <hi>Covenant.</hi>
+            </head>
+            <p>WEE the Noblemen, Knights, Gentlemen, Clergy-men, Freeholders, Citizens, <gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>geſſes and Commons of the late <hi>Eastern, Southern,</hi> and <hi>Weſtern Aſſociations</hi> of <hi>England,</hi> whoſe names are hereunto ſubſcribed, having for a ſong ſeaſon with bleeding hearts, perplexed ſpirits, weeping eyes, and over-much patience and ſilence, beheld the miſerable publike Diſtractions, intollerable Oppreſſions, various Re<g ref="char:EOLhyphen"/>volutions, great Tumults, and deſtructive Confuſions, wherewith our former moſt glorious, flouriſhing Churches and Nations (for want of a ſetled Government, and Free Parliament) have many years by-paſt been violently rent in pieces, waſted, conſumed, made the very hiſſing, ſcorn, laughing-ſtock of all Neighbour Countries; whether Friends or Foes, Chriſtians or Infidels; and thereby expoſed to the juſtly dreaded hoſtile Invaſions of combined forein Romiſh Adverſaries, whoſe Emiſſaries have been very active, inſtrumental in our late Combuſtions and Changes; being now deeply ſenſible of the deplorable, deſperate Condition and imminent ruine, not only of our own Perſons, Families, Poſterities, but of our deareſt, exhauſted, enthralled, dying Native Country, and Proteſtant Religion too, farr dearer to us than our <hi>Lives</hi> or private Intereſts, the pre<g ref="char:EOLhyphen"/>ſervation whereof is the <hi>Supremeſt Law;</hi> and calling to our minds the firſt publike ends and cauſes for which we took up arms (ſince totally perverted, ſubver<g ref="char:EOLhyphen"/>ted, oppugned by ambitious, ſelf-advancing Commanders, Officers of the Army, and others contrary to their truſts and Commiſſions) with the manifold Oaths, Proteſtations, Vows, Solemn League and Covenant, and other Sacred as well as Civil Obligations lying upon our Conſciences, engaging us all in our ſeve<g ref="char:EOLhyphen"/>ral places and callings in this day of <hi>Englands trouble,</hi> and extreme danger, to put to our helping hands and beſt advice to obviate thoſe Perils, and remove thoſe Diſorders, Grievances, Confuſions which menace utter deſolation both to her and us, if we ſhould any longer ſit ſtupidlie ſilent, or unactive in our ſpheres, like perſons altogether unintereſted or unconcerned in theſe perillous times of unpreſidented exorbitances, uſurpations, tyrannies over our perſons, eſtates, Laws, Liberties, and Parliaments themſelves, by ambitious, turbulent ſelf-ſeekers and Incendiaries, and of univerſal decay of trade by Sea and Land; Have therupon conceived it our neceſſary bounden duties in this ſad poſture of our Sacred and Civil Concernments both as Chriſtians and Engliſh Freemen, by this our joynt REMONSTRANCE to tender to the reſt of our Engliſh Brethren throughout the whole Nation of what rank, calling, or condition ſoever; ſuch juſt, legal, ſafe, rational, honeſt and Chriſtian Propoſals, as through Gods bleſſing upon our and their unanimous, vigorous proſecution of them againſt all ſelf-ended Opponents, may redeeme us from our preſent bondage, dangers, Schiſms, Confuſions, frequent Rotations of publique Government, and reſtore our tottering Church, State, Kingdoms, Religion, to their priſtine Unity, Tranquillity, Purity, Stability, Dignity, Felicity, and ſecure them againſt all future Concuſſions and Convulſions.</p>
+            <p>For which end we all paſſionately deſire, and ſhall unanimouſly and cordially endeavour by all lawfull means within our Orbs,</p>
+            <p n="1">1. That a legal, full and free Parliament of <hi>England</hi> may be ſpeedily ſummmoned, according to the preſcription of 16 <hi>Caroli,</hi> c. 1. enacted for this pur<g ref="char:EOLhyphen"/>poſe, not hitherto put in execution; and that free elections of able Knights, Citizens and Burgeſſes, by and of all well-affected perſons to Peace, and the old Parliaments good Cauſe, to repreſent them therein, may be no wayes diſturbed, nor reſtrained by force of arms or otherwiſe.</p>
+            <p n="2">2. That the ſaid Parliament may ſafely, freely meet at <hi>Westminſter</hi> on the third Monday in <hi>January</hi> next, to conſult of, vote, and ſettle the Peace, Govern<g ref="char:EOLhyphen"/>ment of our diſtracted Churches and Nations, without the interruption, diſturbance, force or diſſolution of any Commanders, Officers or Souldiers of the Army, or other tumultuous perſons whatſoever, under pain of being declared, proſecuted, executed as Traytors and Enemies to the publique.</p>
+            <p n="3">3. That the full power of the Militia both by Sea and Land be delivered up to this Parliament, on the firſt day of their Convention therein, for the bet<g ref="char:EOLhyphen"/>ter aſſurance of their free and peaceable Seſſion, and not continued as a diſtinct bodie or intereſt in oppoſition, contradiſtinction, or ſuper-inſpection, but in real ſubordination to the Parliament and people.</p>
+            <p n="4">4. That the whole frame and ſettlement of the Government of our Nations be intirely referred to the Parliaments unanticipated conſideration, the proper Judges thereof, without any antecedent reſtrictions, preſcriptions, or impoſitions by the Army-Officers, or any others.</p>
+            <p n="5">5. That the Supreme management of all Civil, Politique, Militarie affairs, and appointment of all Great Officers of State and Miniſters of Juſtice, ſhall be in all the ſurviving Members of the long Parliament without ſecluding any, as in a General Council of State and Safety only (who are all deſired to meet for that purpoſe) till the New Free Parliament ſhall aſſemble, and no longer.</p>
+            <p n="6">6. That the Preſervation of the Peace, Government of each County, ſhall be in the hands of ſuch Sheriffs, Conſervatorss of the Peace, and other antient Officers, as the Freeholders of every County ſhall publikely elect in their County-Court, according to their antient Rights and Liberties; and of every City and Corporation in the Mayors, Sheriffs, Bailiffs and other Officers elected by them, according to their Charters, Cuſtoms, and in none other Officers impo<g ref="char:EOLhyphen"/>ſed on them, till the Parliament ſhall take further Order therein.</p>
+            <p n="7">7. That no Taxes, Contributions, Exciſes, Impoſts, New Cuſtoms, Militiaes, or other Payments whatſoever ſhall be henceforth impoſed, aſſeſſed, levied up<g ref="char:EOLhyphen"/>on, or payed by the people, but by their common grant and conſent in free and full Parliament, by Act of Parliament, under pain of High Treaſon in the Im<g ref="char:EOLhyphen"/>poſers, Aſſeſſors, Collectors, and voluntary payers thereof; this being the peoples indubitable Birthright, acknowledged, declared, confirmed by manifold Acts and Declarations old and new.</p>
+            <p n="8">8. That ſuch an Act of Indemnity may be agreed on and aſſented to in this Parliament by Common conſent, as may ſecure and indemnify all perſons, whoſe future peaceable deportment till this Act paſſed ſhall demerit it.</p>
+            <p n="9">9. That care may be therein taken for the ſpeedy ſatisfaction of all juſt arrears of all Officers and Souldiers, duly liſted before the 7. of <hi>May</hi> laſt, who ſhall peaceably and dutifully ſubmit to the free convening and ſafe ſitting of this deſired Parliament. That all others who ſhall tumultuouſly oppoſe or inter<g ref="char:EOLhyphen"/>rupt the ſummoning, aſſembling, or ſitting thereof, ſhall forfeit all their Commands, arrears, indemnity, and incurr the penalty of Traytors and publike E<g ref="char:EOLhyphen"/>nemies to the Parliament and Nation.</p>
+            <p n="10">10. That an effectual courſe may be taken both for the ſettled old maintenance, ſucceſſion, protection and encouragement of a godly, learned, painfull Orthodox, preaching Miniſtry throughout the three Nations.</p>
+            <p n="11">11. That due care and order may be taken for the ſpeedy detection, baniſhment, and execution of the Laws againſt all Jeſuits, Seminary Prieſts, Freers, and other <hi>Romiſh</hi> Emiſſaries, or Seducers whatſoever, imployed to divide, corrupt, ſeduce the people; and the Oath of Abjuration duly tendered by Juſtices of Peace and other Officers to all perſons, who ſhall be accuſed and juſtly ſuſpected to be ſuch, for their better detection.</p>
+            <p n="12">12. That the cauſes of the great extraordinary decay of all ſorts of Trade, Merchandiſe, Shipping, Scarcity of Bullion, Coin, with all frauds and abuſes in Manufactures; dilatory vexatious proceedings, extortions in Courts of Law and Equity, may be diligently inquired into, redreſſed, puniſhed; and the great deſtruction and waſte of Timber in all parts inhibited under ſevere penalties.</p>
+            <p n="13">13. That all Treaſurers, Receivers, Collectors, Farmers of any Monies, Cuſtoms, Exciſes, Rents, Revenues, Taxes, Impoſts, Sequeſtrations or other goods, profits whatſoever to the uſe of the publike, may be ſpeedily called to account in each County, by fitting, unaccountable perſons appointed for that end, and all their frauds and abuſes therein inquired of and condignly puniſhed.</p>
+            <p n="14">14. That all good Laws formerly enacted for the preſervation and defence of the Perſons, Lives, Liberties, Properties of the Subjects, againſt illegal Impriſonments, Baniſhments, Reſtraints, Confinements, Corporal puniſhments, executions by any Perſon or Perſons, Powers, Committees, Council of State, Military, Civil Officers, or Judicatures whatſoever, and againſt all unjuſt Taxes, Confiſcations, Sequeſtrations, Rapines, Plunders, may be ratifyed; and the late, and future high wilfull violations of them, exemplarily puniſhed.</p>
+            <p n="15">15. That every Perſon who ſhall henceforth Canvas for Voices to make himſelf a Knight, Citizen, Burgeſs or Baron of the Ports, in the next, or any enſu<g ref="char:EOLhyphen"/>ing Parliament, either by Letters of Recommendation from Great men, feaſting the Electors before, at, or after Elections, Gifts, Bribes, or otherwiſe, ſhall upon due proof thereof, be made Uncapable to ſit or ſerve in Parliament.</p>
+            <p n="16">16. That all Members of Parliament, Officers of State, Juſtices, Sheriffs, Mayors, Recorders, ſhall henceforth take a Corporal Oath, to the beſt of their knowledge, skill, power, inviolably to preſerve the Fundamental Laws, Liberties, Franchiſes of the Free-men of <hi>England,</hi> and to give all Laws for the de<g ref="char:EOLhyphen"/>fence of them in charge to the Grand-Jury, in their reſpective Aſſizes, and General Seſſions of the Peace, that they may inquire and preſent all Offences againſt, and violations of them, to be condignly puniſhed according to Law.</p>
+            <p n="17">17. That all Unneceſſary Garriſons, Supernumerary Souldiers, and Sea-men, may be ſpeedily payd off, diſmantled, disbanded, and all ſuperfluous Offi<g ref="char:EOLhyphen"/>cers, exceſſive Fees, and extortions whatſoever taken away, for the Impoveriſhed peoples eaſe; And the manifold extortions, abuſes of Gaolers, Marſhals, Meſſengers, and other detainers of Priſoners, puniſhed and redreſſed.</p>
+            <p n="18">18. That Able, Faithfull, Conſcientious, fitting Perſons fearing God and hating Covetouſneſſe, may be preferred to all Offices, Places of publick Truſt, and Adminiſtration of Juſtice; and <hi>detur digniori,</hi> made the only rule in all Elections and Preferments whatſoever.</p>
+            <p n="19">19. That all Univerſities, Colleges, Schools of learning in our three Nations, with all Lands, Rents, Annuities, Gifts, Revenues, for their ſupport, may be <gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>onſtantly maintained, preſerved from rapine, and all miſimployments, ſubſtractions of them, and of any Lands, Rents, Annuityes, Monyes, Gifts, Legacies to them, or any other publike or charitable uſe whatſoever, diligently inquired after and reformed.</p>
+            <p>All which propoſals we are reſolved by Gods gracious aſſiſtance with unanimitie, conſtancy, and activity, in our ſeveral ſtations, with our lives and for<g ref="char:EOLhyphen"/>tunes, to proſecute and accompliſh to our powers by all juſt, and legal wayes, with what ever elſe may conduce to the Peace, Safety, Unity, Wealth, Proſpe<g ref="char:EOLhyphen"/>rity of our Lacerated, Macerated, Naufragated Church and State; wherein as we ſhall conſtantly pray for Gods Divine aſſiſtance and bleſſing upon our weak endeavours, without which they will be altogether ſucceſleſſe: So we cannot but confidently expect and ſhall importunately deſire the cordial Concurence, aſſiſtance, Prayers of all other Noble-men, Knights, Gentlemen, Clergy-men, Free-holders, Citizens, Burgeſſes, and Engliſh Freemen, without the malleſt oppoſition, that ſo <hi>Righteouſneſſe and Peace may kiſſe each other, and glory once more dwell within our Land,</hi> wherein they have been ſtrangers over-long: <hi>And let all the People</hi> (by their joynt ſubſcriptions) <hi>ſay, Amen, Amen,</hi> Amen.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
